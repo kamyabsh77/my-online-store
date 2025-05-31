@@ -510,7 +510,7 @@ position: absolute;
 }
 
 .category-box:last-child {
-  background-image: url('../images/women.png');
+  background-image: url('../images/women.png.png');
   color: #fff;
 }
 .view-button {
