@@ -505,12 +505,12 @@ position: absolute;
   padding: 20px;
 }
 .category-box:first-child {
-  background-image: url('/images/ringmen.png');
+  background-image: url('./images/ringmen.png');
   color: #1b4d4a;
 }
 
 .category-box:last-child {
-  background-image: url('/images/women.png');
+  background-image: url('./images/women.png');
   color: #fff;
 }
 .view-button {
